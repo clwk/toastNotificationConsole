@@ -1,5 +1,4 @@
-﻿// using Microsoft.Toolkit.Uwp.Notifications;
-using CommunityToolkit.WinUI.Notifications;
+﻿using CommunityToolkit.WinUI.Notifications;
 
 new ToastContentBuilder()
     .AddText("Tjena Berra!")
